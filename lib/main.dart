@@ -12,6 +12,9 @@ class MainApp extends StatelessWidget {
     return const MaterialApp(
       home: Scaffold(
         body: Center(
+
+
+        }
           child: Text('Hello World!'),
         ),
       ),
@@ -20,3 +23,4 @@ class MainApp extends StatelessWidget {
 }
 
 // Agregando un nuevo texto para validar la carga
+// Agregando otro test
