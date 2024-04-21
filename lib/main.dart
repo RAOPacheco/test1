@@ -22,5 +22,7 @@ class MainApp extends StatelessWidget {
   }
 }
 
-// Agregando un nuevo texto para validar la carga
+
+// Nuevo comment
+// Agregando nuevo texto para validar la carga
 // Agregando otro test
